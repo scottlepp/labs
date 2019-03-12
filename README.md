@@ -1,0 +1,5 @@
+# labs
+
+---
+permalink: /index.html
+---
